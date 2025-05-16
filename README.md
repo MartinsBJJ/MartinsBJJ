@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucas Martins
+# 👋 Olá! Eu sou Lucas Martins
 
 🎯 Atualmente atuo como **Analista de Suporte de TI**, e estou em transição para a área de **DevOps/SRE**  
 📚 Estudando diariamente ferramentas e práticas modernas de infraestrutura  
